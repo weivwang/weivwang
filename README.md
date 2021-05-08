@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=weivwang.readme)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
 
  - 🔭 I’m currently studying at WHU ...
  - 🌱 I’m currently learning basic program knowledge...
