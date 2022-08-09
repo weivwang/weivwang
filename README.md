@@ -4,10 +4,6 @@
 
  - 🔭 I’m currently studying at Wuhan University ...
  - 👯 stay hungry, stay foolish
- - 💬 个人主页：https://weivwang.github.io
- - 🤔 掘金主页：https://juejin.cn/user/2867955883584557
- - 😈 知乎主页：https://www.zhihu.com/people/yong-hu-6896323699
- - 📫 Email：  wangweivei@foxmail.com
 
 ![info](https://github-readme-stats.vercel.app/api?username=weivwang&show_icons=true&count_private=true&hide=prs&theme=chartreuse-dark )
 <!--
