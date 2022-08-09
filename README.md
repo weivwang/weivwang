@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=weivwang.readme)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
- - 🔭 I’m currently studying at Wuhan University ...
+ - 🔭 I’m currently studying at Wuhan University, major in software engineering ...
  - 👯 stay hungry, stay foolish
 
 ![info](https://github-readme-stats.vercel.app/api?username=weivwang&show_icons=true&count_private=true&hide=prs&theme=chartreuse-dark )
