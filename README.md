@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🏢 Software Engineer at **Tencent**, working on cutting-edge tech
+- 🏢 Software Engineer at **Tencent**,
 - 🎓 B.Eng. in **Software Engineering** from **Wuhan University** (2019–2023)
 - 🤖 Passionate about **AI Agents, LLMs, and Multi-Agent Systems**
 - 🌏 Based in Guangzhou, China
