@@ -18,8 +18,7 @@
 - 🏢 Software Engineer at **Tencent**, working on cutting-edge tech
 - 🎓 B.Eng. in **Software Engineering** from **Wuhan University** (2019–2023)
 - 🤖 Passionate about **AI Agents, LLMs, and Multi-Agent Systems**
-- 🔍 Creator of [**traceweave**](https://github.com/weivwang/trace-wave) — Datadog for AI Agents (on PyPI!)
-- 🌏 Based in Shenzhen / Wuhan, China
+- 🌏 Based in Guangzhou, China
 - 💡 Motto: *Do something different.*
 
 ---
