@@ -75,15 +75,6 @@ Exploring multi-agent orchestration, agent observability, and LLM application de
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=weivwang&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weivwang&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" />
-</div>
-
----
-
 ### 🗺️ Journey
 
 ```
@@ -100,7 +91,5 @@ Exploring multi-agent orchestration, agent observability, and LLM application de
 <div align="center">
 
 *Stay hungry, stay foolish.* 🚀
-
-**If you like my work, consider giving [traceweave](https://github.com/weivwang/trace-wave) a ⭐**
 
 </div>
