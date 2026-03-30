@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Wei Wang 👋
+# Hey 👋
 
 **AI Enthusiast · Software Engineer @ Tencent · Open Source Builder**
 
