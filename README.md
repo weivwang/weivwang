@@ -79,7 +79,6 @@ Exploring multi-agent orchestration, agent observability, and LLM application de
 
 ```
 2019 ─── 🎓 Entered Wuhan University, Software Engineering
-2020 ─── 🏆 WHU Zero Cup Web Design Competition (3rd Place)
 2021 ─── 🧠 Deep Learning & Computer Vision (CS231n, PyTorch)
 2023 ─── 🎓 Graduated from WHU · Joined Tencent
 2024 ─── 🤖 Dived into LLM & AI Agent development
