@@ -2,7 +2,7 @@
 
 # Hey 👋 I am weivwang
 
-**AI Enthusiast · Software Engineer @ Tencent · Open Source Builder**
+**AI Enthusiast · Currently at Start up · EX Wechat SDE @Tencent · Open Source Builder**
 
 [![](https://img.shields.io/badge/Tencent-Software_Engineer-1DA1F2?style=flat-square&logo=tencentqq&logoColor=white)](https://www.tencent.com/)
 [![](https://img.shields.io/badge/WHU-Software_Engineering_'23-A0522D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMNCAxMGg0djhoOHYtOGg0eiIvPjwvc3ZnPg==)](https://www.whu.edu.cn/)
