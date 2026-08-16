@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Weiwei Wang 👋
+# Hi, I'm will wang 👋
 
 ### Full-stack engineer · AI systems builder · Open-source contributor
 
